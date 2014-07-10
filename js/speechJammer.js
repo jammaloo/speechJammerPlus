@@ -68,7 +68,7 @@ var SpeechJammer=function() {
         { val:"ringmod",    name:"Ring mod" },
         { val:"telephonize",  name:"Telephonize" },
         { val:"distortion",       name:"Distortion" },
-        { val:"stereoChorus",       name:"Stereo Chours" },
+        { val:"stereoChorus",       name:"Stereo Chorus" },
         { val:"stereoFlange", name:"Stereo Flange" },
         { val:"autowah",      name:"Autowah" },
         { val:"wah_dis_ch",   name:"Wah+Distortion+Stereo Chours" }
